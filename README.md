@@ -41,6 +41,7 @@ apt install git p && git clone https://github.com/shubhushubhu99/Ravan.git && cd
 #### Main View:
 
 <img src="Ravan.jpg.jpg">
+<img src="Screenshot_20220724-082140.png">
 
 
 ## This repository is open source to help others. So if you wish to copy, consider giving credit!
