@@ -14,13 +14,14 @@
 
 ```cd Ravan```
 
-```bash Ravan.sh```
+```bash Ravan2.sh[API DEAD]```
 
+```python Ravan3.py[WORKING]```
 
 ### Dependencies
 
 * to run this program make sure you've successfully installed or run tor in termux 
-```pkg install tor ```
+```pkg install tor [NO NEED IN RAVAN3]```
 
 * to run the tor use a new session and type 
 ``` tor ```
@@ -55,4 +56,4 @@ apt install git p && git clone https://github.com/shubhushubhu99/Ravan.git && cd
 [![Instagram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/darksquadbyshub1hacker)
 [![Instagram](https://img.shields.io/badge/WHATSAPP-JOINGROUP-red?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/Lg4LzNPVDms4jiygADSLbZ)
 
-
+## NOTE: UNINSTALL THE OLD VERSION OF RAVAN VIA rm -rf Ravan AND INSTALL THE NEW VERSION VIA SAME COMMAND
